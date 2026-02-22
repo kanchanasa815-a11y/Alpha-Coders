@@ -1,0 +1,8 @@
+{
+  "name": "Smart Voice Health Report Assistant",
+  "description": "A professional healthcare web application that simplifies complex medical reports using AI and provides voice-based explanations for enhanced accessibility.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
