@@ -66,6 +66,4 @@ Our AI system performs three main functions:
 
 ---
 
- Output Screenshots
-
-Upload your images inside `/assets/` folder and link them here:
+ 
